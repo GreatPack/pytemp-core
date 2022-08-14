@@ -15,3 +15,5 @@ args:
 bool - boolean,if True,the number will be formatted,otherwise if the number is not formatted
 ---------------------------------
 farn - integer,farenheit
+---------------------------------
+project at PyPI:https://pypi.org/project/pytempxcore/
