@@ -16,4 +16,4 @@ bool - boolean,if True,the number will be formatted,otherwise if the number is n
 ---------------------------------
 farn - integer,farenheit
 ---------------------------------
-project at PyPI:https://pypi.org/project/pytempxcore/
+i at PyPI:https://pypi.org/user/GreatPack/
