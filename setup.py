@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name='tempy',
+setup(name='pytemp-core',
       version='0.1',
-      url='https://github.com/GreatPack/tempy',
+      url='https://github.com/GreatPack/pytemp-core',
       license='MIT',
       author='GreatPack',
       author_email='m6338687@gmail.com',
